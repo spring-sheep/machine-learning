@@ -1,1 +1,2 @@
 # machine-learning
+Machine learning methods are increasingly being utilized in the development of biomarker models. However, their application in clinical settings is challenging due to the inappropriate use of machine-learning methods and a lack of rigorous validation using different cohorts. In this study, we constructed a robust consensus immune-related gene signature (IRGS) by integrating ten different machine-learning methods in hepatocellular carcinoma. This signature demonstrates high accuracy and stability in the prediction of prognosis and response to drug therapy.
